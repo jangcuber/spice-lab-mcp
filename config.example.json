@@ -1,0 +1,10 @@
+{
+  "cadence_bin": "C:/Cadence/SPB_17.2/tools/bin",
+  "model_library": "C:/Cadence/SPB_17.2/tools/pspice/library/eval.lib",
+  "read_roots": [
+    "C:/Users/YOUR_NAME/Documents/pspice-projects"
+  ],
+  "workspace": "./runtime",
+  "observation_ttl_seconds": 30,
+  "simulation_timeout_seconds": 120
+}
